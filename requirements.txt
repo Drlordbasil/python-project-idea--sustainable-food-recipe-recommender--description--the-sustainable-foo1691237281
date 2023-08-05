@@ -1,0 +1,5 @@
+The package requirements for the given Python program are:
+
+- `requests`
+- `bs4` (BeautifulSoup)
+- `sklearn` (scikit-learn)
